@@ -1,2 +1,2 @@
-# hugenshin
-A discord bot that can genshin impact stats of players using mihoyo API.
+# API paranormal
+Uma API para os rituais do RPG ordem paranormal
